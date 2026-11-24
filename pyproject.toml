@@ -1,0 +1,10 @@
+[project]
+name = "perles-a-repasser"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "streamlit>=1.65.0",
+    "streamlit-image-coordinates>=0.4.1",
+]
